@@ -1,0 +1,9 @@
+{
+    "php.sandbox": {
+        "mysql.host": "localhost",
+        "mysql.port": 3307,
+        "mysql.database": "agenda",
+        "mysql.user": "root",
+        "mysql.password": "carlos3011"
+    }
+}
